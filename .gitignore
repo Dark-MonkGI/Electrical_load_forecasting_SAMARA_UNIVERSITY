@@ -1,0 +1,23 @@
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+dist/
+build/
+.ipynb_checkpoints/
+
+# Файлы, созданные Jupyter Notebook
+*.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.nbformat.json
+*.nbsignatures.db
+*.log
+
+# Файлы, созданные VS Code
+.vscode/
+*.code-workspace
+
+
+# Слишком большой файл
+arima_model.pickle
